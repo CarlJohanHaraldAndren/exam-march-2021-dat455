@@ -1,0 +1,5 @@
+Hej jag heter Carl och detta är en exempeltext python
+där jag ska hitta ett random ord och ge
+rätt line eller nånting bla bla bla hej
+jag heter carl. Och jag gillar .
+Carl heter jag bla python.
